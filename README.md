@@ -1,0 +1,1 @@
+This project aims to predict house prices using machine learning techniques. The predictions are based on various features such as location, size, and other property attributes. The project uses three different datasets to train and evaluate the models.
